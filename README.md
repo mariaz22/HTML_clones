@@ -1,1 +1,3 @@
-# HTML_clones
+#Clustering algorithm for HTML documents
+
+##Overview
