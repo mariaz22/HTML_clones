@@ -1,3 +1,3 @@
-#Clustering algorithm for HTML documents
+# Clustering algorithm for HTML documents
 
-##Overview
+## Overview
