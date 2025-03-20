@@ -3,6 +3,11 @@
 ## Overview
 This project aims to design an algorithm that groups together HTML documents that are similar from the perspective of a user viewing them in a web browser. The algorithm is implemented in Python using specific libraries.
 
+##Project Approach
+  The motivation behind this project stemmed from the increasing importance of visual presentation in web design and user experience. As users interact with web pages, their perception of similarity is often influenced more by visual aspects, such as colors and styles, than by structural elements alone. In the similarity calculation, I opted to assign higher weights to the visual elements (CSS styles and colors) compared to structural elements.
+  To ensure the algorithm runs efficiently I used asynchronous processing, this is particularly beneficial when processing large datasets, as it minimizes waiting times and speeds up the overall execution of comparisons.
+
+
 ## Project Structure
 The project is organized into four main files, each serving a specific purpose in the overall functionality of the HTML document clustering algorithm:
 
